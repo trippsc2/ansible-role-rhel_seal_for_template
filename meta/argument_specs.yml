@@ -1,7 +1,7 @@
 ---
 argument_specs:
   main:
-    short_description: This role seals a RHEL-based machine for use as a template.
+    short_description: RHEL Seal for Template
     description:
       - This role seals a RHEL-based machine for use as a template.
     author: Jim Tarpley
