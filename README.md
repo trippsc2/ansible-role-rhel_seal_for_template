@@ -1,13 +1,13 @@
 <!-- BEGIN_ANSIBLE_DOCS -->
 
-# Ansible Role: trippsc2.rhel_seal_for_template
-This role seals a RHEL-based machine for use as a template.
+# Ansible Role: ansible-role-rhel_seal_for_template
+DEPRECATED: Use trippsc2.template.rhel instead.
 
 ## Requirements
 
 | Platform | Versions |
 | -------- | -------- |
-| EL | 8, 9 |
+| EL | <ul><li>8</li><li>9</li></ul> |
 
 ## Dependencies
 
